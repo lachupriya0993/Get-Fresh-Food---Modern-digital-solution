@@ -142,51 +142,9 @@ Estimated transaction counts for checkout, stock updates, online orders, reports
 
 Data Volume
 
-Retention policies and projected dataset sizes for:
 
-Product forms
 
-Transaction records
 
-Reports
-
-Online carts
-
-Event logs
-
-Security Requirements
-
-Role-based access control for each data entity and business transaction.
-
-Reliability
-
-System availability
-
-Downtime limits
-
-Hardware recovery
-
-Disaster recovery guidelines
-
-Test Cases and Test Data
-
-The URS includes detailed test cases for the “Start a New Transaction” workflow, covering:
-
-Product search
-
-Barcode scanning
-
-Stock validation
-
-Cart operations
-
-Payment selection
-
-Error messages
-
-Total price calculation
-
-Sample test data for products (ID, name, category, stock, price) is also provided.
 
 Document Contents
 
